@@ -35,7 +35,7 @@ Portfólio pessoal desenvolvido para apresentar meus projetos e habilidades como
 
 ## 🌐 Acesse o Site
 
-[https://duartebraz.github.io/portfolio](https://duartebraz.github.io/portfolio)
+https://portifoliolucasduarte.netlify.app/
 
 ## 👨💻 Desenvolvedor
 
